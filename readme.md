@@ -1,1 +1,1 @@
-Interview Experiences at various organizations w.r.t DSA
+The objective of this is to follow some practices around DSA interviews
